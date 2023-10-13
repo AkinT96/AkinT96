@@ -3,4 +3,4 @@
 ## Follow me on Github:
 
 <!-- GitHub Follow Button -->
-<a href="https://github.com/AkinT96" class="github-button" data-show-count="true" aria-label="Follow @AkinT96 on GitHub">Follow @AkinT96</a>
+<a href="https://github.com/AkinT96" class="github-button" data-show-count="true" aria-label="@AkinT96 on GitHub">Follow @AkinT96</a>
